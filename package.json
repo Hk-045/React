@@ -2,7 +2,6 @@
   "name": "react",
   "version": "1.0.0",
   "description": "React Learning",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -20,6 +19,8 @@
   },
   "homepage": "https://github.com/Hk-045/React#readme",
   "dependencies": {
-    "parcel": "^2.16.4"
+    "parcel": "^2.16.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
   }
 }
