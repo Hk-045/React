@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React Learning",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hk-045/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Harish Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hk-045/React/issues"
+  },
+  "homepage": "https://github.com/Hk-045/React#readme",
+  "dependencies": {
+    "parcel": "^2.16.4"
+  }
+}
